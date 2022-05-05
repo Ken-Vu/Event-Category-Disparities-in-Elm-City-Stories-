@@ -1,1 +1,1 @@
-# Event-Category-Disparities-in-the-Game-Elm-City-Stories-
+# Event-Category-Disparities-in-Elm-City-Stories-
