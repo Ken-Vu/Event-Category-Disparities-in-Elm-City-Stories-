@@ -4,4 +4,3 @@ In 2022, the American Statistican Association hosted DataFest at California Stat
 
 ## Research Question
 For DataFest 2022, we were given a data set for the game "Elm City Stories" (by developer Play2Prevent lab) where we decided to focus on one particular question - What are the **top three** types of events that took up the most playing time for players from each school?
-
